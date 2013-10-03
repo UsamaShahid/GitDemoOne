@@ -4,7 +4,7 @@
     <list default="true" id="6bb640c7-de00-4435-870b-82be3039decf" name="Default" comment="" />
     <ignored path="GitOne.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/GitOnePage.html" changelist="6bb640c7-de00-4435-870b-82be3039decf" time="1380810852203" ignored="false" />
+    <file path="/GitOnePage.html" changelist="6bb640c7-de00-4435-870b-82be3039decf" time="1380811017859" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,7 @@
       <file leaf-file-name="GitOnePage.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GitOnePage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="158" selection-end="158" vertical-scroll-proportion="0.2953668">
+            <state line="9" column="1" selection-start="146" selection-end="146" vertical-scroll-proportion="0.2953668">
               <folding />
             </state>
           </provider>
@@ -211,7 +211,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/GitOnePage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="158" selection-end="158" vertical-scroll-proportion="0.2953668">
+        <state line="9" column="1" selection-start="146" selection-end="146" vertical-scroll-proportion="0.2953668">
           <folding />
         </state>
       </provider>
